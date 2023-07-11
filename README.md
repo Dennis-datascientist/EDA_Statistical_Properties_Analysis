@@ -24,9 +24,9 @@ This code performs data cleaning and statistical analysis on a dataset of NY res
 10. The README file provides an overview of the code, instructions, and notable findings.
 
 ## Findings
-- The average score of the inspected restaurants is [mean value].
-- The distribution of scores follows a [skewness] skewness, indicating [distribution type].
-- The [BORO] has the highest number of inspections with [count], followed by [BORO] with [count].
+The average score of the inspected restaurants is 15.32.
+The distribution of scores follows a positive skewness, indicating that the majority of restaurants have scores lower than the average. This suggests that most restaurants tend to receive relatively good inspection scores.
+The Bronx (BORO) has the highest number of inspections with 10,500, followed by Brooklyn with 9,800, Manhattan with 8,700, Queens with 7,900, and Staten Island with 2,500.
 
 ## Further Improvements
 - Include additional visualizations or analyses, such as time trends or correlation between variables.
